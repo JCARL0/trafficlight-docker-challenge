@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 theme: jekyll-theme-cayman
 plugins:
+=======
+theme: jekyll-theme-cayman
+plugins:
+>>>>>>> ae9ee941c07643065cf29dc65913ce6efdb4c7b1
   - jemoji
